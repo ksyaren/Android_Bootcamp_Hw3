@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="IMDB">IMDB 8.9</string>
+    <string name="tanım">Inception" is a science fiction thriller directed by Christopher Nolan. The story follows Dom Cobb, a skilled thief who enters people’s dreams to steal their secrets, but is now tasked with planting an idea instead. As the team dives deeper into dream layers, the line between reality and dreams begins to blur dangerously</string>
+    <string name="chart">ADD TO LIST</string>
+</resources>
